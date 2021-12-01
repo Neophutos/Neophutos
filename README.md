@@ -3,9 +3,9 @@
 My name is Ben and I'm a business informatics student in a dual study programme. I'm from Germany, living close to Berlin and currently working at Berlin Brandenburg Airport.
 You can also find me on [![LinkedIn][2.2]][2].
 
-### 👨🏻‍💻 Coding Skills
+### 💻 Coding Skills
 
-I'm currently using Java as a main programming language for university. In the meantime I'm trying to get my hands on Python and Flutter.
+I'm currently using Java and R as my main programming languages for university. In the meantime I'm trying to get my hands on Python and Flutter.
 
 <!-- Icons -->
 
