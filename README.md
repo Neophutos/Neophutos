@@ -5,7 +5,7 @@ You can also find me on [![LinkedIn][2.2]][2].
 
 ### 💻 Coding Skills
 
-I'm currently using Java and R as my main programming languages for university. In the meantime I'm trying to get my hands on Python and Flutter.
+I'm currently using Java and Swift as my main programming languages for university. In the meantime I'm trying to get my hands on Python and Kotlin.
 
 <!-- Icons -->
 
