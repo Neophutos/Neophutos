@@ -1,4 +1,4 @@
-# Hello and Moin! <img src="https://github.com/Neophutos/Neophutos/blob/560dbcc7703a56048d9e82102fef983053473f55/waving-hand-joypixels.gif" width="20px">
+# Hello and Moin!
 
 My name is Ben and I'm a business informatics student in a dual study programme. I'm from Germany, living close to Berlin and currently working at Berlin Brandenburg Airport.
 You can also find me on [![LinkedIn][2.2]][2].
