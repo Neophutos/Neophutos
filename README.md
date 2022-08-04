@@ -4,8 +4,6 @@
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on my bachelors degree in business informatics.
 - 🌱 I’m currently learning more about Python.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/hellocodepur).
-- 🤔 I’m looking for help with Red Teaming /.
 - 💬 Ask me about Cybersecurity, Ethical Hacking or other stuff.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I'm a voluntary lifeguard.
